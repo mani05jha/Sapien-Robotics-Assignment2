@@ -35,4 +35,4 @@ Challenges Faced:
 6. Maybe all of the above 3 errors were caused by the result of crossing the boundations of the Turtlebots' navigation ( the extra space padding it needed to rotate without crossing the high cost resolution of the map, or something like this)
 7. Putting together the launch file where I was opening turtlebot3_gazebo turtlebot3_world.launch.py and turtlebot3_navigation2 navigation2.launch.py use_sim_time:=true map:=/path/map/my_map.yaml was causing the issue of not loading the global and    local costmap, even the nav2 goal send was not working. Didn't understand the issue, but fixed it.
 8. I First launching the turtlebot3_navigation2 navigation2.launch.py use_sim_time:=true map:=/path/map/my_map.yaml and then after 5 seconds launching      turtlebot3_gazebo turtlebot3_world.launch.py and then after 15 seconds launching the node sapien_robotics navigate_turtlebot3.py --ros-args -p set_initial_pose:=true -p set_goal_pose:=true -p x:=3.7 -p y:=1.5 -p w:=-3.14 -p follow_waypoints:=true
-9. The above technique resolved the issue. 6
+9. The above technique resolved the issue. 7
