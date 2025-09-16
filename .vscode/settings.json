@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages",
+        "/home/maninderjha/Videos/Ros2_Nav_SLAM/install/wormhole_implementation/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages",
+        "/home/maninderjha/Videos/Ros2_Nav_SLAM/install/wormhole_implementation/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/sapien_robotics/sapien_robotics.egg-info
+writing ../../build/sapien_robotics/sapien_robotics.egg-info/PKG-INFO
+writing dependency_links to ../../build/sapien_robotics/sapien_robotics.egg-info/dependency_links.txt
+writing entry points to ../../build/sapien_robotics/sapien_robotics.egg-info/entry_points.txt
+writing requirements to ../../build/sapien_robotics/sapien_robotics.egg-info/requires.txt
+writing top-level names to ../../build/sapien_robotics/sapien_robotics.egg-info/top_level.txt
+writing manifest file '../../build/sapien_robotics/sapien_robotics.egg-info/SOURCES.txt'
+reading manifest file '../../build/sapien_robotics/sapien_robotics.egg-info/SOURCES.txt'
+writing manifest file '../../build/sapien_robotics/sapien_robotics.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build
+creating /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib
+creating /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib/sapien_robotics
+copying sapien_robotics/__init__.py -> /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib/sapien_robotics
+copying sapien_robotics/navigate_turtlebot3.py -> /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib/sapien_robotics
+running install
+running install_lib
+creating /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics
+copying /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib/sapien_robotics/__init__.py -> /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics
+copying /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib/sapien_robotics/navigate_turtlebot3.py -> /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics
+byte-compiling /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics/navigate_turtlebot3.py to navigate_turtlebot3.cpython-310.pyc
+running install_data
+creating /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/share/ament_index
+creating /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/share/ament_index/resource_index
+creating /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/share/ament_index/resource_index/packages
+copying resource/sapien_robotics -> /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/share/ament_index/resource_index/packages
+copying package.xml -> /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/share/sapien_robotics
+running install_egg_info
+Copying ../../build/sapien_robotics/sapien_robotics.egg-info to /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics-0.0.0-py3.10.egg-info
+running install_scripts
+Installing navigate_turtlebot3 script to /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/sapien_robotics
+writing list of installed files to '/home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/install.log'

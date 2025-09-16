@@ -1,0 +1,24 @@
+[1.074s] Invoking command in '/home/maninderjha/Videos/sapien_robotics/src/sapien_robotics': PYTHONPATH=/home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sapien_robotics build --build-base /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build install --record /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/install.log --single-version-externally-managed install_data
+[1.386s] running egg_info
+[1.387s] writing ../../build/sapien_robotics/sapien_robotics.egg-info/PKG-INFO
+[1.387s] writing dependency_links to ../../build/sapien_robotics/sapien_robotics.egg-info/dependency_links.txt
+[1.387s] writing entry points to ../../build/sapien_robotics/sapien_robotics.egg-info/entry_points.txt
+[1.387s] writing requirements to ../../build/sapien_robotics/sapien_robotics.egg-info/requires.txt
+[1.388s] writing top-level names to ../../build/sapien_robotics/sapien_robotics.egg-info/top_level.txt
+[1.389s] reading manifest file '../../build/sapien_robotics/sapien_robotics.egg-info/SOURCES.txt'
+[1.391s] writing manifest file '../../build/sapien_robotics/sapien_robotics.egg-info/SOURCES.txt'
+[1.391s] running build
+[1.391s] running build_py
+[1.391s] copying sapien_robotics/navigate_turtlebot3.py -> /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib/sapien_robotics
+[1.391s] running install
+[1.392s] running install_lib
+[1.393s] copying /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build/lib/sapien_robotics/navigate_turtlebot3.py -> /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics
+[1.394s] byte-compiling /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics/navigate_turtlebot3.py to navigate_turtlebot3.cpython-310.pyc
+[1.395s] running install_data
+[1.395s] running install_egg_info
+[1.397s] removing '/home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics-0.0.0-py3.10.egg-info' (and everything under it)
+[1.398s] Copying ../../build/sapien_robotics/sapien_robotics.egg-info to /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages/sapien_robotics-0.0.0-py3.10.egg-info
+[1.399s] running install_scripts
+[1.424s] Installing navigate_turtlebot3 script to /home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/sapien_robotics
+[1.424s] writing list of installed files to '/home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/install.log'
+[1.480s] Invoked command in '/home/maninderjha/Videos/sapien_robotics/src/sapien_robotics' returned '0': PYTHONPATH=/home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/maninderjha/Videos/sapien_robotics/install/sapien_robotics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/sapien_robotics build --build-base /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/build install --record /home/maninderjha/Videos/sapien_robotics/build/sapien_robotics/install.log --single-version-externally-managed install_data

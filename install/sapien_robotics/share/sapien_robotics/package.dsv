@@ -1,0 +1,6 @@
+source;share/sapien_robotics/hook/pythonpath.ps1
+source;share/sapien_robotics/hook/pythonpath.dsv
+source;share/sapien_robotics/hook/pythonpath.sh
+source;share/sapien_robotics/hook/ament_prefix_path.ps1
+source;share/sapien_robotics/hook/ament_prefix_path.dsv
+source;share/sapien_robotics/hook/ament_prefix_path.sh

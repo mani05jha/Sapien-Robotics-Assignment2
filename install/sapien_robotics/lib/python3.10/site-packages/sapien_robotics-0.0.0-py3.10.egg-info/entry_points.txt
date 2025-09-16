@@ -1,0 +1,3 @@
+[console_scripts]
+navigate_turtlebot3 = sapien_robotics.navigate_turtlebot3:main
+
